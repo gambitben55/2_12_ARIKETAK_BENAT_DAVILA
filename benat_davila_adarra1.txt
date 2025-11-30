@@ -1,2 +1,3 @@
 Lehen lerroa
-Main adarreko lerro berria
+Aldaketa berria 1
+Aldaketa berria 2
